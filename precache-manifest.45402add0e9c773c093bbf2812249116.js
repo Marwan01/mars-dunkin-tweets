@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24bea6c8078802fa5d9f6072f7695341",
+    "revision": "10f515badfc8fe3842fe0e1af17cd135",
     "url": "/mars-dunkin-tweets/index.html"
   },
   {

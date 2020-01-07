@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mars-dunkin-tweets/precache-manifest.77bdd702b6c7e01530107914f960a03b.js"
+  "/mars-dunkin-tweets/precache-manifest.45402add0e9c773c093bbf2812249116.js"
 );
 
 self.addEventListener('message', (event) => {
