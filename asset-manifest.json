@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mars-dunkin-tweets/static/css/main.11b2243a.chunk.css",
+    "main.js": "/mars-dunkin-tweets/static/js/main.56cb4a28.chunk.js",
+    "main.js.map": "/mars-dunkin-tweets/static/js/main.56cb4a28.chunk.js.map",
+    "runtime-main.js": "/mars-dunkin-tweets/static/js/runtime-main.4f9887f5.js",
+    "runtime-main.js.map": "/mars-dunkin-tweets/static/js/runtime-main.4f9887f5.js.map",
+    "static/js/2.9f354e95.chunk.js": "/mars-dunkin-tweets/static/js/2.9f354e95.chunk.js",
+    "static/js/2.9f354e95.chunk.js.map": "/mars-dunkin-tweets/static/js/2.9f354e95.chunk.js.map",
+    "index.html": "/mars-dunkin-tweets/index.html",
+    "precache-manifest.77bdd702b6c7e01530107914f960a03b.js": "/mars-dunkin-tweets/precache-manifest.77bdd702b6c7e01530107914f960a03b.js",
+    "service-worker.js": "/mars-dunkin-tweets/service-worker.js",
+    "static/css/main.11b2243a.chunk.css.map": "/mars-dunkin-tweets/static/css/main.11b2243a.chunk.css.map",
+    "static/media/dankgif.gif": "/mars-dunkin-tweets/static/media/dankgif.b49f214e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f9887f5.js",
+    "static/js/2.9f354e95.chunk.js",
+    "static/css/main.11b2243a.chunk.css",
+    "static/js/main.56cb4a28.chunk.js"
+  ]
+}
