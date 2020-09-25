@@ -12,7 +12,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <TwitterTimelineEmbed
           sourceType="profile"
-          screenName="marwanest1"
+          screenName="HelaliMarouen"
           options={{height: 400, width: 600}}/>
       </header>
       <h6>Copyright @Mar 2019</h6>
